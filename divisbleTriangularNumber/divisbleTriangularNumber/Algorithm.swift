@@ -33,5 +33,11 @@ class Algorithm: NSObject {
         }
         return returnValue;
     }
+    
+    func findFirstTriangularNumberWithDivisorsOverAmountSpecified(startNumber: Int, amountSpecified: Int) -> Int {
+        var returnValue: Int = 0;
+        
+        return returnValue;
+    }
 
 }

@@ -88,4 +88,13 @@ class AlgorithmTest: XCTestCase {
         XCTAssertEqual(correct, result);
     }
     
+    func testItFindsTheFirstTriangularNumberWithDivisorsOverAmountSpecified() {
+        let algo = Algorithm();
+        let amountSpecified: Int = 4;
+        let startNumber: Int = 1;
+        let result = algo.findFirstTriangularNumberWithDivisorsOverAmountSpecified(startNumber, amountSpecified: amountSpecified);
+        let correct = 28;
+        XCTAssertEqual(correct, result);
+    }
+    
 }
