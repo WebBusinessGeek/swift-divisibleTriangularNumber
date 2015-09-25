@@ -15,5 +15,23 @@ class Algorithm: NSObject {
     func getTestsAreWorkingMessage() -> String {
         return self.testsAreWorkingMessage;
     }
+    
+    func findFactors(integerToFactor: Int) -> [Int] {
+        var returnValue = [Int]();
+        var looper: Int = 1;
+        var reversalFound: Bool = false;
+        var sqrtFound: Bool = false;
+        
+        while(looper != integerToFactor && !reversalFound && !sqrtFound) {
+            if(integerToFactor % looper == 0){
+                reversalFound = returnValue.contains(looper) ? true : false;
+                sqrtFound = looper * looper == integerToFactor ? true : false;
+                if(!reversalFound){returnValue.append(looper);}
+                if(!sqrtFound && !reversalFound){returnValue.append(integerToFactor / looper);}
+            }
+            looper++;
+        }
+        return returnValue;
+    }
 
 }

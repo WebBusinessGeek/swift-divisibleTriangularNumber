@@ -19,5 +19,131 @@
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "divisbleTriangularNumberTests/AlgorithmTest.swift"
+            timestampString = "464896541.105327"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testItReturns1_6_2_3For6()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "divisbleTriangularNumberTests/AlgorithmTest.swift"
+            timestampString = "464898985.659672"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testItReturns1And3For3()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "divisbleTriangularNumberTests/AlgorithmTest.swift"
+            timestampString = "464899368.352068"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "testItReturns1_48_2_24_3_16_4_12_6_8For48()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "divisbleTriangularNumberTests/AlgorithmTest.swift"
+            timestampString = "464899441.713091"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AlgorithmTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "divisbleTriangularNumberTests.AlgorithmTest.__deallocating_deinit"
+                  moduleName = "divisbleTriangularNumberTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
+                  timestampString = "464899444.074488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "divisbleTriangularNumberTests.AlgorithmTest.init (divisbleTriangularNumberTests.AlgorithmTest.Type)(invocation : Swift.Optional&lt;ObjectiveC.NSInvocation&gt;) -&gt; divisbleTriangularNumberTests.AlgorithmTest"
+                  moduleName = "divisbleTriangularNumberTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
+                  timestampString = "464899444.07482"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "divisbleTriangularNumberTests.AlgorithmTest.init (divisbleTriangularNumberTests.AlgorithmTest.Type)(selector : ObjectiveC.Selector) -&gt; divisbleTriangularNumberTests.AlgorithmTest"
+                  moduleName = "divisbleTriangularNumberTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
+                  timestampString = "464899444.075196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "divisbleTriangularNumberTests.AlgorithmTest.init (divisbleTriangularNumberTests.AlgorithmTest.Type)() -&gt; divisbleTriangularNumberTests.AlgorithmTest"
+                  moduleName = "divisbleTriangularNumberTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
+                  timestampString = "464899444.076797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
