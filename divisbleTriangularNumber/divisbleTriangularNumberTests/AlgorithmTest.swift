@@ -97,4 +97,13 @@ class AlgorithmTest: XCTestCase {
         XCTAssertEqual(correct, result);
     }
     
+    func testItSolvesTheProblem() {
+        let algo = Algorithm();
+        let amountSpecified: Int = 500;
+        let startNumber: Int = 1;
+        let result = algo.findFirstTriangularNumberWithDivisorsOverAmountSpecified(startNumber, amountSpecified: amountSpecified);
+        let correct = 76576500;
+        XCTAssertEqual(correct, result);
+    }
+    
 }

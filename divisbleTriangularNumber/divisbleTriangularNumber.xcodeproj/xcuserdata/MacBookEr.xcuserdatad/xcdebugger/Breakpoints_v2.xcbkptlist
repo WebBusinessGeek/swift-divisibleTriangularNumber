@@ -90,7 +90,7 @@
                   moduleName = "divisbleTriangularNumberTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
-                  timestampString = "464899444.074488"
+                  timestampString = "464909534.390816"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -105,7 +105,7 @@
                   moduleName = "divisbleTriangularNumberTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
-                  timestampString = "464899444.07482"
+                  timestampString = "464909534.391341"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -120,7 +120,7 @@
                   moduleName = "divisbleTriangularNumberTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
-                  timestampString = "464899444.075196"
+                  timestampString = "464909534.391787"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -135,7 +135,7 @@
                   moduleName = "divisbleTriangularNumberTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/MacBookEr/Desktop/techFit/swift/divisibleTriangularNumber/divisbleTriangularNumber/divisbleTriangularNumberTests/AlgorithmTest.swift"
-                  timestampString = "464899444.076797"
+                  timestampString = "464909534.392367"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -158,6 +158,38 @@
             startingLineNumber = "95"
             endingLineNumber = "95"
             landmarkName = "testItFindsTheFirstTriangularNumberWithDivisorsOverAmountSpecified()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "divisbleTriangularNumberTests/AlgorithmTest.swift"
+            timestampString = "464909417.944847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "testItFindsTheFirstTriangularNumberWithDivisorsOverAmountSpecified()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "divisbleTriangularNumberTests/AlgorithmTest.swift"
+            timestampString = "464909530.08543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "testItSolvesTheProblem()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

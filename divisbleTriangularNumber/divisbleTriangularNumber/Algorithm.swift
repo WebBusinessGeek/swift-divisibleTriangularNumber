@@ -36,7 +36,20 @@ class Algorithm: NSObject {
     
     func findFirstTriangularNumberWithDivisorsOverAmountSpecified(startNumber: Int, amountSpecified: Int) -> Int {
         var returnValue: Int = 0;
+        var previousNumber: Int = startNumber;
+        var nextNumber: Int = previousNumber + 1;
+        var triangularNumber: Int = previousNumber + nextNumber;
+        var problemSolved: Bool = false;
         
+        while(!problemSolved) {
+            var factors: [Int] = self.findFactors(triangularNumber);
+            if(factors.count > amountSpecified) {
+                problemSolved = true;
+                returnValue = triangularNumber;
+            }
+            nextNumber++;
+            triangularNumber += nextNumber;
+        }
         return returnValue;
     }
 
